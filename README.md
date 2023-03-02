@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+⚡ Currently I am working on: 
+- Deploying my CMS. 
+- Remodeling it in React. 
+- HTML / CSS / JS / React
+
+🔭 My plans for the near future: 
+- Typescript 
+- Node.js 
+- Redux
+
+
 <!--
 **Dexeraz/dexeraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
