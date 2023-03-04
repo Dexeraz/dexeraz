@@ -2,10 +2,11 @@
 
 ⚡ Currently I am working on: 
 - Deploying my CMS. 
-- Remodeling it in React. 
+- Testing it and fixing bugs.
 - HTML / CSS / JS / React
 
 🔭 My plans for the near future: 
+- Remodeling my CMS in React. 
 - Typescript 
 - Node.js 
 - Redux
