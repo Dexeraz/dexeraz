@@ -1,9 +1,12 @@
 ### Hi there 👋
 
 ⚡ Currently I am working on: 
-- Deploying my CMS. 
-- Testing it and fixing bugs.
+- Testing my friends' CMSes
+- Improving my CMS after testing
+- Lua script for college Programming Games class
+- E-commerce webapp 
 - HTML / CSS / JS / React
+
 
 🔭 My plans for the near future: 
 - Remodeling my CMS in React. 
