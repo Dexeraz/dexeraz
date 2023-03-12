@@ -3,13 +3,11 @@
 ⚡ Currently I am working on: 
 - Testing my friends' CMSes
 - Improving my CMS after testing
-- Lua script for college Programming Games class
-- E-commerce webapp 
 - HTML / CSS / JS / React
 
 
 🔭 My plans for the near future: 
-- Remodeling my CMS in React. 
+- Optimise my portfolio website.
 - Typescript 
 - Node.js 
 - Redux
